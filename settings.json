@@ -1,6 +1,6 @@
 {
   "globalSettings": {
-    "botname": "dreaded",
+    "botname": "mickey-tech",
     "prefix": ".",
     "packname": "dreaded v2 🤖",
     "mode": "public",
@@ -25,8 +25,8 @@
   "groupSettings": {},
   "bannedUsers": [],
   "sudoUsers": [
-    "254114018035",
-    "254741889898"
+    "255711765335",
+    "255612130873"
   ],
   "conversationHistory": {}
 }
