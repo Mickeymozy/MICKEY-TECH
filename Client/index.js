@@ -31,7 +31,6 @@ const { initializeClientUtils } = require('../Client/clientUtils');
 const logger = pino({
     level: 'silent' 
 });
-
 const makeInMemoryStore = require('../Client/store.js'); 
 
 const store = makeInMemoryStore({
