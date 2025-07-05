@@ -1,5 +1,5 @@
 const { getGroupSetting, getSudoUsers } = require("../Database/adapter");
-const botname = process.env.BOTNAME || 'DREADED';
+const botname = process.env.BOTNAME || 'MICKEY-TECH';
 
 
 const Events = async (client, Fortu) => {
