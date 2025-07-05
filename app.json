@@ -1,8 +1,8 @@
 {
-  "name": "DREADED V2",
+  "name": "MICKEY-TECH",
   "description": "This is a simple WhatsApp bot built with Node.js and Baileys with MD support.",
-  "website": "https://github.com/Fortunatusmokaya/dreaded-v2#readme",
-  "repository": "https://github.com/Fortunatusmokaya/dreaded-v2.git",
+  "website": "https://github.com/Mickeymozy/Mickey-tech#readme",
+  "repository": "https://github.com/Mickeymozy/Mickey-tech.git",
   "logo": "https://telegra.ph/file/d6dab955fbaa42fce2280.jpg",
   "success_url": "/",
   "env": {
