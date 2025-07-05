@@ -21,7 +21,7 @@ for (let a of gcdata.participants) {
 
 let cont = './contacts.vcf'
 
-await m.reply('A moment, dreaded is compiling '+gcdata.participants.length+' contacts into a vcf...');
+await m.reply('A moment,  is compiling '+gcdata.participants.length+' contacts into a vcf...');
 
 
 
