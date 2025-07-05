@@ -118,13 +118,13 @@ const connectionHandler = async (client, update, startDreaded) => {
 
     if (!currentDevs.includes(Myself)) {
       await addSudoUser(Myself);
-      let newSudoMessage = `Holla, ${getGreeting()},\n\nYou are connected to dreaded bot. 📡\n\n`;
+      let newSudoMessage = `Holla, ${getGreeting()},\n\nYou are connected to  bot. 📡\n\n`;
       newSudoMessage += `👤 BOTNAME:- ${botname}\n`;
       newSudoMessage += `🔓 MODE:- ${settings.mode}\n`;
       newSudoMessage += `✍️ PREFIX:- ${settings.prefix}\n`;
       newSudoMessage += `📝 COMMANDS:- ${totalCommands}\n`;
       newSudoMessage += `🕝 TIME:- ${getCurrentTimeInNairobi()}\n`;
-      newSudoMessage += `💡 LIBRARY:- Baileys\n\n`;
+      newSudoMessage += `💡 CHANNEL:- https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610\n\n`;
       newSudoMessage += `▞▚▞▚▞▚▞▚▞▚▞▚▞\n\n`;
       newSudoMessage += `Looks like this is your first connection with this database, so we are gonna add you to sudo users.\n\n`;
       newSudoMessage += `Now use the *${settings.prefix}settings* command to customize your bot settings.\n`;
@@ -133,13 +133,13 @@ const connectionHandler = async (client, update, startDreaded) => {
 
       await client.sendMessage(client.user.id, { text: newSudoMessage });
     } else {
-      let message = `Holla, ${getGreeting()},\n\nYou are connected to dreaded bot. 📡\n\n`;
+      let message = `Holla, ${getGreeting()},\n\nYou are connected to  bot. 📡\n\n`;
       message += `👤 BOTNAME:- ${botname}\n`;
       message += `🔓 MODE:- ${settings.mode}\n`;
       message += `✍️ PREFIX:- ${settings.prefix}\n`;
       message += `📝 COMMANDS:- ${totalCommands}\n`;
       message += `🕝 TIME:- ${getCurrentTimeInNairobi()}\n`;
-      message += `💡 LIBRARY:- Baileys\n\n`;
+      message += `💡 LIBRARY:- CHANNEL:- https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610\n\n`;\n\n`;
       message += `▞▚▞▚▞▚▞▚▞▚▞▚▞`;
       await client.sendMessage(client.user.id, { text: message });
     }
