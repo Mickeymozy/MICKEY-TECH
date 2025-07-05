@@ -1,146 +1,175 @@
- ***DREADED-V2***
 
-<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=B700FB&center=true&width=1000&height=200&lines=MICKEY-TECH-MD" alt="Typing SVG" /></a>
+  </p>
+  
+---  
 
-| [![Fortunatus Mokaya](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
-|----|
+> **`Updated To` The Version 1.0**
+---
 
-<p align="center">
-<a href="https://github.com/Fortunatusmokaya"><img title="Author" src="https://img.shields.io/badge/Fortunatus-skyblue?style=for-the-badge&logo=telegram"></a>
-<p/>
-<p align="center">
-<a href="https://github.com/Fortunatusmokaya/dreaded-v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fortunatusmokaya/dreaded-v2?&style=social"></a>
-<a href="https://github.com/Fortunatusmokaya/dreaded-v2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Fortunatusmokaya/dreaded-v2?style=social"></a>
-<a href="https://github.com/Fortunatusmokaya/dreaded-v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fortunatusmokaya/dreaded-v2?label=Watching&style=social"></a>
-</p>
+```
+MICKEY TECH MD  💗 
+```
 
+--- 
 
+<a><img src='https://files.catbox.moe/5n6dz2.jpg'/></a>
 
-
-## SET-UP
-
-
-<h2 align="center">   
-
-
-<p align="center">
-  <a href='https://github.com/Fortunatusmokaya/dreaded-v2/fork' target="_blank" style="margin-right: 10px;">
-    <img alt='Fork Repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=orange&color=darkgreen'/>
-  </a>
-  <a href='https://pair.dreaded.site' target="_blank">
-    <img alt='REQUEST PAIR CODE' src='https://img.shields.io/badge/Get_Pair_code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=darkorange&color=darkorange'/>
-  </a>
-</p>
-
-## DEPLOYMENT
-
-<p align="center">
-  🚀 If you're unable to deploy to Heroku, you can use our custom hosting platform <a href="https://hosting.dreaded.site" target="_blank"><strong>HERE</strong></a>.
-</p>
+<a><img src='https://files.catbox.moe/5n6dz2.gif'/></a>
 
 ---
 
 <p align="center">
-  <a href="https://dashboard.heroku.com/new?template=https://github.com/Fortunatusmokaya/dreaded-v2" target="_blank" style="margin-right: 10px;">
-    <img alt="Deploy to Heroku" src="https://www.herokucdn.com/deploy/button.svg"/>
-  </a>
+  <a href="https://github.com/lokuashuu"><img title="Developer" src="https://img.shields.io/badge/Author-Jmickeymozy FF7604.svg?style=big-square&logo=github" /></a>
 </p>
-
-<p align="center">
-  Heroku safety 💯 guaranteed.
-</p>
-
-
-<details>
-<summary>MANUAL INSTALLATION</summary>
-
-## `REQUIREMENTS`
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases/download/autobuild-2020-12-08-13-03/ffmpeg-n4.3.1-26-gca55240b8c-win64-gpl-4.3.zip)
-* [Libwebp](https://developers.google.com/speed/webp/download)
-* Any text editor
-
-
-## FOR TERMUX/UBUNTU/SSH VPS DEPLOY
-- Copy/Paste to your terminal
-
-```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-git clone https://github.com/Fortunatusmokaya/dreaded-v2
-cd dreaded-v2
-npm install
-```
-## START BOT
-
-```bash
-
-npm start
-```
-
- ***`The bot will only work if you updated the session id in settings.js`***
-
-## BACKGROUND RUNNING
-
-```bash
-npm install pm2 -g
-pm2 start index.js
-```
- ***`This will allow bot to run in the background even when the vps terminal is closed, for termux you'll need a stable device with continuous internet connection`***
-
-## STOPPING BOT
-
-_CTRL + C_
-
-</details>
-
-## FEATURES
-`This bot is a modification of the predecessor ***`dreaded-md`*** but we changed the module to commonJs. It has group management features, some media commands, image manipulation commands as well as AI and many other features incorporated.`
-
- `Some AI and media commands use our API. This API is not very reliable hence sometimes there may be a downtime.`
-
- `If you are a developer you can check out our`  [`API SITE`](https://api.dreaded.site).
-
- `The API site contains many endpoints that can be used in your projects. No need for API keys or login, completely free, for now`
-
-
-
-
-# Credits
-
-Thanks to...
 
 <div align="center">
+  
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610)
+</div>
 
-| [![Fortunatus Mokaya](https://github.com/Fortunatusmokaya.png?lenght=50width=50)](https://github.com/Fortunatusmokaya)|
-|----|
-* [`Fortunatus mokaya`](https://github.com/Fortunatusmokaya) ***Author, Owner***
-
-
-* [`Malik `](https://github.com/darkLo1rd) ***Debugging, random fixes and additions 🌱***
+ <p align="center"><img src="https://profile-counter.glitch.me/{DEVIL-TECH}/count.svg" alt="lokuashuu :: Visitor's Count" old_src="https://profile-counter.glitch.me/{lokuashuu}/count.svg" /></p>
 
 
+<p align="center">
+<a href="https://github.com/Mickeymozy/Mickey-plus"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=DEVIL-TECH-&label=VIEWS&style=square&color=blue" />
+</p>
+</p> 
 
-* [`DikaArdnt`](https://github.com/DikaArdnt) ***For Hisoka Base***
-* [`Adiwajshing`](https://github.com/WhiskeySockets/Baileys) ***Baileys Library***
-* [`WaSocket Discord`](https://discord.gg/WeJM5FP9GG) ***Maintaining the bot libs***
+<p align="center">
+  <a href="https://github.com/Mickeymozy/Mickey-plus"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1.0-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+</p>
+
+
+***
+
+### 1. Fork This Repository
+
+Start by forking this repository to your own GitHub account. Click the button below to fork:
+
+ <a href="https://github.com/Mickeymozy/Mickey-plus/fork"><img title="DEVIL-TECH-" src="https://img.shields.io/badge/FORK-DEVIL-TECH?color=blue&style=for-the-badge&logo=stackshare"></a>
+  
+### 2. Get Session ID 
+
+You will need a session ID to run the KHAN-MD. Click the button below to obtain your session ID.if any error in loading site try vpn:
+
+> **Get Pair Code (Session ID)**
+
+<a href='https://khanmdx.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-B700FB?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+> **Get Pair Code (Session ID)**
+
+<a href='https://khanmdx2.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-000000?style=for-the-badge&logo=opencv&logoColor=white'/>
+</a>
+<br> 
+
+> **Get Pair Code (Session ID)**
+
+<a href='https://khanmdx3.onrender.com' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0076D2?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br> 
+
+---
+
+<h2 align="center">Deployment Section</h2>
+
+---
+
+<h4 align="center">1. Heroku</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+
+<p align="center">
+<a href='https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FMickeymozyr%2FMickey-Plus' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+
+<h4 align="center">4. koyed</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+  
+<p align="center">
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=lokuashuu/DEVIL-TECH-&ports=3000&env[PREFIX]=.&env[SESSION_ID]=&env[ALWAYS_ONLINE]=false&env[MODE]=public&env[AUTO_STATUS_MSG]=Seen%20status%20by%20KHAN-MD&env[AUTO_STATUS_REPLY]=false&env[AUTO_STATUS_SEEN]=true&env[AUTO_TYPING]=false&env[ANTI_LINK]=true&env[AUTO_REACT]=false&env[READ_MESSAGE]=false' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-koyeb ‎ deploy-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+
+<h4 align="center">4. Railway</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+<p align="center">
+<a href='https://railway.app/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-railway deploy-FF8700?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
+
+<h4 align="center">5. Render</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="center">
+<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Render deploy-black?style=for-the-badge&logo=render&logoColot=white'/< width=150 height=28/p></a>
+ 
+
+
+ <h4 align="center">8. Workflow</h4>
+<p style="text-align: center; font-size: 1.2em;">
+
+
+* Workflow Codes <a href="https://whatsapp.com/channel/0029Vb4HJcD4inowFiwWsY1S">Click Here</a>
 
 
 
 ---
 
 
-Incase of any issues, contact me  [here](https://wa.me/+254114018035) via WhatsApp.
 
-Modifying the bot structure is at your own risk. We won't offer technical support if error occur, also use bots on WhatsApp at your own risk, you may be flagged for spam.
+## 🌐 WhatsApp Channel 
 
+---
 
-## License
+Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
-[MIT License](https://github.com/Fortunatusmokaya/dreaded-v2/blob/main/LICENSE)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610)
 
-Copyright (c) 2024 DREADED-V2
+---
 
+<h2 align="left">⚠️ Reminder</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  
+----
+- **Disclaimer:** This bot is not affiliated with `WhatsApp Inc.`. Use it at your own risk.
+- Misusing the bot may result in your `WhatsApp` account being banned. Note that you can only unban your account once.
+- I am not responsible for any bans or misuse of the bot. Please keep this warning in mind before proceeding.
 
+---
+
+<h2 align="left">ℹ️ Notice</h2>
+<p style="text-align: center; font-size: 1.2em;">
+  
+---  
+  Not For Sale - If any plugin's code is obfuscated, you do not have permission to edit it in any form. Please remember to give credit if you are using or re-uploading my plugins/files. Wishing you a wonderful day ahead!</p>
+  
+---
+
+<h2 align="center">🔰 Credit Section 🔰 </h2>
+
+---
+
+> MICKEY-MOZY Owner 
+- [MICKDADI](https://github.com/Mickeymozy)
+- Creater and Owner Of MICKEY
+  
+---
+
+ <br>
+<h2 align="center"> ⚠️ Warning ⚠️
+ </h2>
+ 
+ ---
+
+<h3 align="center"> Don't Copy Without Permission 
+</h3>
+
+<br>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+---
