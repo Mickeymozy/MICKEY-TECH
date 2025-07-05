@@ -17,7 +17,7 @@ module.exports = async (context) => {
                     `https://api.heroku.com/apps/${herokuAppName}/builds`,
                     {
                         source_blob: {
-                            url: "https://github.com/Fortunatusmokaya/dreaded-v3/tarball/main",
+                            url: "https://github.com/Mickeymozy/Mickey-tech/tarball/main",
                         },
                     },
                     {
@@ -28,7 +28,7 @@ module.exports = async (context) => {
                     }
                 );
 
-                await m.reply("Your bot is getting updated, wait 2 mins for the redeploy to finish! This will simply trigger a redeploy thus installing the latest version of DREADED-V2.");
+                await m.reply("Your bot is getting updated, wait 2 mins for the redeploy to finish! This will simply trigger a redeploy thus installing the latest version .");
               
             } catch (error) {
                 const errorMessage = error.response?.data || error.message;
