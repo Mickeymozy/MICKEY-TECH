@@ -31,7 +31,7 @@ module.exports = async (context) => {
 
         await client.sendMessage(m.chat, {
             document: { url: response.url },
-            mimetype: "audio/mp3",
+            mimetype: "audio/mpeg",
             fileName: `${song.title}.mp3`
         }, { quoted: m });
 
