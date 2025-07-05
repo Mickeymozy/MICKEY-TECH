@@ -41,16 +41,15 @@ module.exports = async (context) => {
 
         let menuText = `Holla, ${getGreeting()},\n\n`;
 
-        menuText += `👥 𝑼𝑺𝑬𝑹:- ${m.pushName}\n`;
-        menuText += `👤 𝑩𝑶𝑻𝑵𝑨𝑴𝑬:- ${botname}\n`;
-        menuText += `📝 𝑪𝑶𝑴𝑴𝑨𝑵𝑫𝑺:- ${totalCommands}\n`;
-        menuText += '🕝 𝑻𝑰𝑴𝑬:- ' + getCurrentTimeInNairobi() + '\n';
-        menuText += `✍️ 𝑷𝑹𝑬𝑭𝑰𝑿:- ${prefix}\n`;
-        menuText += `🔓 𝑴𝑶𝑫𝑬:- ${mode}\n`;
-        menuText += '💡 𝑳𝑰𝑩𝑹𝑨𝑹𝒀:- Baileys\n';
+        menuText += ` 𝑼𝑺𝑬𝑹:- ${m.pushName}\n`;
+        menuText += ` 𝑩𝑶𝑻𝑵𝑨𝑴𝑬:- ${botname}\n`;
+        menuText += ` 𝑪𝑶𝑴𝑴𝑨𝑵𝑫𝑺:- ${totalCommands}\n`;
+        menuText += ' 𝑻𝑰𝑴𝑬:- ' + getCurrentTimeInNairobi() + '\n';
+        menuText += ` 𝑷𝑹𝑬𝑭𝑰𝑿:- ${prefix}\n`;
+        menuText += ` 𝑴𝑶𝑫𝑬:- ${mode}\n`;
+        menuText +=    ' *SUPPORT MY CHANNEL*:- https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610\n';
 
         menuText += '━━━━━━━\n';
-        menuText += '━━━━━━\n';
         menuText += '━━━━━━━\n\n';
 
         const toLightUppercaseFont = (text) => {
@@ -91,10 +90,10 @@ await client.sendMessage(m.chat, {
                         contextInfo: {
                             externalAdReply: {
                                 showAdAttribution: false,
-                                title: `DREADED V3`,
+                                title: `MICKEY-TECH`,
                                 body: `Hi ${m.pushName}`,
                                 thumbnail: pict,
-                                sourceUrl: `https://github.com/Fortunatusmokaya/dreaded-v3`,
+                                sourceUrl: `https://github.com/Mickeymozy/Mickey-tech`,
                                 mediaType: 1,
                                 renderLargerThumbnail: true
                             }
